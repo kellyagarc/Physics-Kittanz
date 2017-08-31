@@ -1,5 +1,5 @@
 # Physics-Kittanz
-Da blog XD
+Da blog XD 
 ## Outline (Pages)
 ```
 - Review of fundamental material (Core series)
@@ -7,3 +7,11 @@ Da blog XD
 - Forum .. of some sort?
 - ...
 ```
+
+## Review
+-
+
+## Introductions
+- **Nonlinear sciences** [Synchronization](https://github.com/kellyagarc/Physics-Kittanz/blob/master/sync.pdf)
+
+
