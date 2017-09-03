@@ -14,6 +14,6 @@ Da blog XD
 ## Introductions
 - **Nonlinear sciences** [Synchronization](https://github.com/kellyagarc/Physics-Kittanz/blob/master/sync.pdf)  
 *First recognized in 1665 by Christiaan Huygens, synchronization phenomena are abundant in science, nature, engineering, and social life. Systems as diverse as clocks, singing crickets, cardiac pacemakers, firing neurons, and applauding audiences exhibit a tendency to operate in synchrony. These phenomena are universal and can be understood within a common framework based on modern nonlinear dynamics.* -Pikovsky & Rosenblum  
-「**Comment**: Not mathematically heavy, mostly qualitative (especially for noise & chaos), except for sections 3 & 4.」
+「**Comment**: (*Introductory/Intermediate)* Not mathematically heavy or difficult, mostly qualitative and intuitive (especially for noise & chaos), except maybe sections 3 & 4.」
 
 -
